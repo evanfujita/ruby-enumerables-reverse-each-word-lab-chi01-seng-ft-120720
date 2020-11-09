@@ -1,5 +1,5 @@
 def reverse_each_word(string)
-  new_array = Array.new
-  string.join
+  array = Array.new
+  array.join(string)
   puts string
 end
