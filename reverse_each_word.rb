@@ -4,5 +4,4 @@ def reverse_each_word(string)
     word.reverse!
   array.to_s
 end
-  array
 end
