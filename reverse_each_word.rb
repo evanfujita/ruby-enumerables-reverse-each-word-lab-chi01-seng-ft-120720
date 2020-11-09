@@ -1,5 +1,5 @@
 def reverse_each_word(a)
-  %w"#{a}"
+  string.split
 end
 
 reverse_each_word(string)
