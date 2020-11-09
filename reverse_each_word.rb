@@ -1,5 +1,5 @@
 def reverse_each_word(string)
-  %wstring 
+  %w[string]
 end
 
 reverse_each_word(string)
